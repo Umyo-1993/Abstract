@@ -24,9 +24,9 @@ Example Output
 The notebook's output includes the following:
 
 The approximate value of y at a specific point (e.g., x = 1).
-Author U Mo
 
 
 Arrays showing the discrete values of X and the corresponding calculated values of Y.
 
-A generated plot illustrating the numerical approximation.# Abstract
+A generated plot illustrating the numerical approximation.# Author U Mo
+
